@@ -18,6 +18,7 @@ App to search list of movies from Open Movie Database as part of Test Assignment
   It's used to manage constants of the app such as colors, images, icons and other assets that really usefull when working in a big project.
 - Create reusable componenents
   to enhances code maintainability, reduces redundancy, and promotes a consistent design throughout the application.
+- Add env file in order to manage important resource of the app
 
   
 
