@@ -19,6 +19,7 @@ App to search list of movies from Open Movie Database as part of Test Assignment
 - Create reusable componenents
   to enhances code maintainability, reduces redundancy, and promotes a consistent design throughout the application.
 - Add env file in order to manage important resource of the app
+- Use Flatlist instead of Scrollview in order to show list of movies. Flatlist will renders the items that are currently visible on the screen and a few items beyond, improving performance when dealing with large datasets.
 
   
 
