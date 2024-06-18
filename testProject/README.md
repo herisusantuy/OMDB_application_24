@@ -1,3 +1,4 @@
+![Preview](https://github.com/herisusantuy/OMDB_application_24/blob/main/testProject/movie_searcher.gif)
 # Movie Searcher 
 
 ## Description
